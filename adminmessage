@@ -1,17 +1,5 @@
 {
-"SendMessage":14,
+"SendMessage":15,
 "MyMessage":
-"Alternative DNS na pwede niyo gamitin if connected kayo pero no browse. Pwede niu palitan ung sa primary dns sa settings
-
-208.67.222.222 ➡️ opendns
-84.200.69.80     ➡️ dnswatch 
-91.217.137.37   ➡️ opennic dns
-209.244.0.3        ➡️ level3 dns
-8.26.56.26          ➡️ comodo dns
-9.9.9.9                 ➡️ quad dns
-1.1.1.1                 ➡️ cloudflare dns
-1.0.0.1                 ➡️ cloudflare dns
-0.0.0.0                 ➡️ static dns
-8.8.8.8                 ➡️ google dns
-8.8.4.4                 ➡️ google dns"
+"LATEST VERSION NG APP PAKI DOWNLOAD NALANG NASA FB KO LANG ANG LINK PASINSYA NA PO KAYO SA BUG NG APP SALAMAT"
 }
